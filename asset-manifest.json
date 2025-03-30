@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-invite/static/css/main.1f0670b4.css",
+    "main.js": "/e-invite/static/js/main.b4c6ecc1.js",
+    "index.html": "/e-invite/index.html",
+    "main.1f0670b4.css.map": "/e-invite/static/css/main.1f0670b4.css.map",
+    "main.b4c6ecc1.js.map": "/e-invite/static/js/main.b4c6ecc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0670b4.css",
+    "static/js/main.b4c6ecc1.js"
+  ]
+}
